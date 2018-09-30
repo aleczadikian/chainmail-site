@@ -9,8 +9,8 @@ You start by connecting to users you know, or even just one fairly active user. 
 ## Privacy & Terms of Service:
 1. This is not a private messaging app. We take security seriously, but messages are meant to be public in nature, and we don't make guarantees about their privacy.
 2. What you're not allowed to send in messages:
-    a. Spam, scams, and exploits.
-    b. Anything illegal or depicting illegal activity. This includes inciting crime or violence and spreading whatever can obviously be considered slander.
+    1. Spam, scams, and exploits.
+    2. Anything illegal or depicting illegal activity. This includes inciting crime or violence and spreading whatever can obviously be considered slander.
 3. Your data:
-    a. You don't give us (nor do we collect) any personal data except your Chainmail username, which will be redistributed. Don't make it anything sensitive.
-    b. We don't plan to look at or distribute your messages unless they're reported, but we make no guarantees here because of point #1.
+    1. You don't give us (nor do we collect) any personal data except your Chainmail username, which will be redistributed. Don't make it anything sensitive.
+    2. We don't plan to look at or distribute your messages unless they're reported, but we make no guarantees here because of point #1.

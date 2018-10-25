@@ -12,5 +12,8 @@ You start by connecting to users you know, or even just one fairly active user. 
     1. Spam, scams, and exploits.
     2. Anything illegal or depicting illegal activity. This includes inciting crime or violence and spreading whatever can obviously be considered slander.
 3. Your data:
-    1. Authentication uses your email address, phone number, and possibly other information. This is used for authentication only, and we may read it while responding to your support request but won't distribute it outside. Other than that, you don't give us (nor do we collect) any personal data except your Chainmail username, which will be redistributed. Don't make it anything sensitive.
+    1. Authentication is done by a third party (Firebase) and uses your email address, phone number, and possibly other information for authentication purposes only. We may read such information while responding to support requests but won't distribute it outside. Other than that, you don't give us (nor do we collect) any personal data except your Chainmail username, which will be redistributed. Don't make it anything sensitive.
     2. We don't plan to look at or distribute your messages unless they're reported, but we make no guarantees here because of point #1.
+    3. Messages and connections may be used internally for analysis, in which case the data will be anonymized.
+
+We reserve the right to delete messages and terminate accounts for violation of the rules above, or (as a catch-all) at our own discretion.

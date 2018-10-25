@@ -12,5 +12,5 @@ You start by connecting to users you know, or even just one fairly active user. 
     1. Spam, scams, and exploits.
     2. Anything illegal or depicting illegal activity. This includes inciting crime or violence and spreading whatever can obviously be considered slander.
 3. Your data:
-    1. You don't give us (nor do we collect) any personal data except your Chainmail username, which will be redistributed. Don't make it anything sensitive.
+    1. Authentication uses your email address, phone number, and possibly other information. This is used for authentication only, and we may read it while responding to your support request but won't distribute it outside. Other than that, you don't give us (nor do we collect) any personal data except your Chainmail username, which will be redistributed. Don't make it anything sensitive.
     2. We don't plan to look at or distribute your messages unless they're reported, but we make no guarantees here because of point #1.

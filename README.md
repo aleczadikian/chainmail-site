@@ -13,7 +13,7 @@ Illegal and objectionable content are strictly forbidden. This includes everythi
 - Sexual or pornographic content. Other repulsive content, such as overly detailed violence.
 - Content meant to offend based on race, religion, origin, gender, or sexual orientation.
 - Spam, scams, and other content intended to mislead users or cause harm.
-- Illegal activity, including contraband trading, intellectual property infringement, and recruitment into illegal organizations.
+- Illegal activity, including illegal trade, intellectual property infringement, and recruitment into illegal organizations.
 - Encouragement of illegal or dangerous activity, such as animal abuse or unsafe handling of weapons.
 
 ## Privacy Overview:

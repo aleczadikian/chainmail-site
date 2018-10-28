@@ -22,7 +22,7 @@ Illegal and objectionable content are strictly forbidden. This includes everythi
 3. We don't plan to look at or distribute your messages unless they're reported, but we make no guarantees here because of point #1.
 4. Anonymous usage-related data may be collected. This is described in greater detail in the EULA.
 
-## End-User License Agreement (EULA):
+## Legal Details:
 Chainmail App End User License Agreement:
 This End User License Agreement (“Agreement”) is between you and Chainmail and governs use of this app made available through the Apple App Store. By installing the Chainmail App, you agree to be bound by this Agreement and understand that there is no tolerance for objectionable content. If you do not agree with the terms and conditions of this Agreement, you are not entitled to use the Chainmail App.
 

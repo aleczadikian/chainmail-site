@@ -1,5 +1,8 @@
 # Chainmail
 
+## Contact
+Email: aleczchainmail+support (at gmail)
+
 ## Intro
 In the late 90s and early 00s, you may have experienced chain email, a message originating from a random person that's been forwarded many times to reach you. It could either be exciting or bothersome, and you could really only blame whoever forwarded it to you. We're bringing that back in a slightly more modern way.
 

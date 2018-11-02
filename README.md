@@ -1,8 +1,5 @@
 # Chainmail
 
-## Contact
-Questions, Comments, etc Email Address: aleczchainmail+support (at gmail)
-
 ## Intro
 In the late 90s and early 00s, you may have experienced chain email, a message originating from a random person that's been forwarded many times to reach you. It could either be exciting or bothersome, and you could really only blame whoever forwarded it to you. We're bringing that back in a slightly more modern way.
 
@@ -48,3 +45,6 @@ In order to ensure Chainmail provides the best experience possible for everyone,
 8. Product Claims: Chainmail, not Apple, is responsible for addressing any claims by you relating to the Chainmail App or use of it, including, but not limited to: (i) any product liability claim; (ii) any claim that the Chainmail App fails to conform to any applicable legal or regulatory requirement; and (iii) any claim arising under consumer protection or similar legislation. Nothing in this Agreement shall be deemed an admission that you may have such claims.
 
 9. Third Party Intellectual Property Claims: Chainmail shall not be obligated to indemnify or defend you with respect to any third party claim arising out or relating to the Chainmail App. To the extent Chainmail is required to provide indemnification by applicable law, Chainmail, not Apple, shall be solely responsible for the investigation, defense, settlement and discharge of any claim that the Chainmail App or your use of it infringes any third party intellectual property right.
+
+## Contact US
+Questions, Comments, etc: send an email to aleczchainmail+support (at gmail)
